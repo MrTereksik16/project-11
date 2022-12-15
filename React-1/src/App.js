@@ -11,7 +11,7 @@ export default function App() {
   return (
     <>
       <Editor
-        apiKey='3xj1rtpl5ttmebtrjt9f7dz678u1kyxrr4jro39wywrbrlam'
+        apiKey='o48zbpxjwitvj69tcv90wvesgr1vwjx4xc4faurodzujpkpw'
         onInit={(evt, editor) => editorRef.current = editor}
         initialValue="<p>This is the initial content of the editor.</p>"
         init={{
